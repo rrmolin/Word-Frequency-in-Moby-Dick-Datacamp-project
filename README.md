@@ -6,4 +6,4 @@ To complete this Project, you need to know how to import web data into python an
 
 Importing Data in Python (Part 2).
 Natural Language Processing Fundamentals in Python.
-This Project is based on a live screencast by DataCamp's own #Hugo Bowne-Anderson. When you've finished the Project, or if you get stuck, do check out the screencast with Hugo's solution (the screencast starts 12 minutes into the video). You can also find Hugo's solution notebook here.
+This Project is based on a live screencast by DataCamp's own Hugo Bowne-Anderson. When you've finished the Project, or if you get stuck, do check out the screencast with Hugo's solution (the screencast starts 12 minutes into the video). You can also find Hugo's solution notebook here.
